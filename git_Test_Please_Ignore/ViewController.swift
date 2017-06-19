@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         print("Hello World!")
         print("Helllooooooo???")
         print("Hi!")
+        print("I very much dislike git")
+        print("I very much dislike git")
+        print("I very much dislike git")
+        print("I very much dislike git")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
